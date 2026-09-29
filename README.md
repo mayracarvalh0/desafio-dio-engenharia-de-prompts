@@ -25,3 +25,4 @@ Os testes realizados demonstraram que a forma como uma instrução é escrita in
 Prompts com maior clareza, contexto, objetivo e estrutura tendem a produzir respostas mais direcionadas às necessidades do usuário.
 
 Este projeto contribuiu para compreender melhor a importância da Engenharia de Prompts na utilização de ferramentas de Inteligência Artificial.
+Adiciona documentação do projeto
